@@ -1,5 +1,5 @@
 import streamlit as st
-from gpt_wrapper import generate_image, generate_text
+from gpt_wrapper import generate_text
 from gemini_wrapper import generate_gemini_text
 
 st.title("Welcome to my first LLM request")
