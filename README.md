@@ -1,2 +1,2 @@
 # first-llm
-Trying my first LLM
+Trying my first LLM API useage.
